@@ -61,7 +61,7 @@ box-shadow:0 -2.60em #262E2A, 2.25em -4.02em #212121, 2.25em -1.25em #262E2A, 4.
         resizeMode="cover"
       />
 
-      {/* Верхній логотип / картинка, що повільно з’являється */}
+      {/* Верхній логотип //// картинка, що повільно з’являється */}
       <Animated.Image
         source={require('../assets/img/partOfLoader.png')}
         style={[

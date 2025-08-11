@@ -282,7 +282,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = WalkThroughCourage/WalkThroughCourage.entitlements;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 5;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = WalkThroughCourage/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Berlin Resistance";
@@ -312,7 +312,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = WalkThroughCourage/WalkThroughCourage.entitlements;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 5;
 				INFOPLIST_FILE = WalkThroughCourage/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Berlin Resistance";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
