@@ -19,8 +19,8 @@ const WalkThroughCourageProdScr = ({ navigation, route }) => {
     route.params?.timeStampUserId,
   );
 
-  const INITIAL_URL = `https://maple-slate-garden.space/`;
-  const URL_IDENTIFAIRE = `vOQSNa6r`;
+  const INITIAL_URL = `https://velvet-ember-ridge.space/`;
+  const URL_IDENTIFAIRE = `bifc49Tt`;
 
   const refWebview = useRef(null);
 

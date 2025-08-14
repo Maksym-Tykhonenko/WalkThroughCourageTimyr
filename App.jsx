@@ -71,8 +71,8 @@ export default function App() {
   const [checkApsData, setCheckApsData] = useState(null);
   const [checkAsaData, setCheckAsaData] = useState(null);
 
-  const INITIAL_URL = `https://maple-slate-garden.space/`;
-  const URL_IDENTIFAIRE = `vOQSNa6r`;
+  const INITIAL_URL = `https://velvet-ember-ridge.space/`;
+  const URL_IDENTIFAIRE = `bifc49Tt`;
 
   useEffect(() => {
     const fetchData = async () => {
@@ -577,7 +577,7 @@ export default function App() {
     const checkUrl = `${INITIAL_URL}${URL_IDENTIFAIRE}`;
     //console.log('checkUrl==========+>', checkUrl);
 
-    const targetData = new Date('2025-08-15T08:08:00');
+    const targetData = new Date('2025-08-20T08:08:00');
     const currentData = new Date(); //текущая дата
 
     if (!route) {
